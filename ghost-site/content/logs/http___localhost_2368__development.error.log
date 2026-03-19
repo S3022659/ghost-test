@@ -1,0 +1,2 @@
+{"name":"Log","hostname":"codespaces-b81903","pid":10381,"level":50,"version":"6.22.0","msg":"Could not get webhook secret for ActivityPub FetchError: invalid json response body at http://localhost:2368/.ghost/activitypub/v1/site/ reason: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON","time":"2026-03-19T10:07:12.566Z","v":0}
+{"name":"Log","hostname":"codespaces-b81903","pid":10381,"level":50,"version":"6.22.0","msg":"No webhook secret found - cannot initialise","time":"2026-03-19T10:07:12.567Z","v":0}
